@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "rahulresume"
+  "defaultProject": "rahulresume",
+  "cli": {
+    "analytics": "6e9b9932-5518-4353-bde3-656d166b9f3a"
+  }
 }
